@@ -2,3 +2,4 @@ npm init -y (inicia o servidor/backend)
 npm install zod fastify openai
 npm install --save-dev typescript tsx @types/node
 npm install @fastify/cors
+npx tsc --init (inicia o typescrip)
