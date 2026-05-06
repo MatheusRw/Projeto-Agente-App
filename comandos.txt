@@ -7,3 +7,4 @@ inicia o programa npm rum dev
 
 para testar o agente no cmd 
 npx tsx --env-file=.env src/agent.ts
+https://platform.openai.com/settings/organization/usage
